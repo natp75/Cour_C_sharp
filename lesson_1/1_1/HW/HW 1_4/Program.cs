@@ -23,4 +23,3 @@ Console.WriteLine($"{max}");
 
 
 
-Console.WriteLine("Hello, World!");
