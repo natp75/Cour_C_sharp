@@ -20,6 +20,3 @@ else
     max = x;
 }
 Console.WriteLine($"{max}");
-
-
-
